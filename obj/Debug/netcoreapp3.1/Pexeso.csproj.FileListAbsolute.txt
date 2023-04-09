@@ -1,0 +1,34 @@
+D:\ONDRA\Programování\Pexeso\bin\Debug\netcoreapp3.1\Pexeso.exe
+D:\ONDRA\Programování\Pexeso\bin\Debug\netcoreapp3.1\Pexeso.deps.json
+D:\ONDRA\Programování\Pexeso\bin\Debug\netcoreapp3.1\Pexeso.runtimeconfig.json
+D:\ONDRA\Programování\Pexeso\bin\Debug\netcoreapp3.1\Pexeso.runtimeconfig.dev.json
+D:\ONDRA\Programování\Pexeso\bin\Debug\netcoreapp3.1\Pexeso.dll
+D:\ONDRA\Programování\Pexeso\bin\Debug\netcoreapp3.1\Pexeso.pdb
+D:\ONDRA\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.csprojAssemblyReference.cache
+D:\ONDRA\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.csproj.GenerateResource.cache
+D:\ONDRA\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.AssemblyInfoInputs.cache
+D:\ONDRA\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.AssemblyInfo.cs
+D:\ONDRA\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.csproj.CoreCompileInputs.cache
+D:\ONDRA\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.dll
+D:\ONDRA\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.pdb
+D:\ONDRA\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.genruntimeconfig.cache
+D:\ONDRA\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.Form1.resources
+D:\ONDRA\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.Properties.Resources.resources
+D:\ONDRA\Doppler\Programování\Pexeso\bin\Debug\netcoreapp3.1\Pexeso.exe
+D:\ONDRA\Doppler\Programování\Pexeso\bin\Debug\netcoreapp3.1\Pexeso.deps.json
+D:\ONDRA\Doppler\Programování\Pexeso\bin\Debug\netcoreapp3.1\Pexeso.runtimeconfig.json
+D:\ONDRA\Doppler\Programování\Pexeso\bin\Debug\netcoreapp3.1\Pexeso.runtimeconfig.dev.json
+D:\ONDRA\Doppler\Programování\Pexeso\bin\Debug\netcoreapp3.1\Pexeso.dll
+D:\ONDRA\Doppler\Programování\Pexeso\bin\Debug\netcoreapp3.1\Pexeso.pdb
+D:\ONDRA\Doppler\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.csproj.AssemblyReference.cache
+D:\ONDRA\Doppler\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.Form1.resources
+D:\ONDRA\Doppler\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.Properties.Resources.resources
+D:\ONDRA\Doppler\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.csproj.GenerateResource.cache
+D:\ONDRA\Doppler\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.AssemblyInfoInputs.cache
+D:\ONDRA\Doppler\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.AssemblyInfo.cs
+D:\ONDRA\Doppler\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.csproj.CoreCompileInputs.cache
+D:\ONDRA\Doppler\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.dll
+D:\ONDRA\Doppler\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.pdb
+D:\ONDRA\Doppler\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.genruntimeconfig.cache
+D:\ONDRA\Doppler\2. cast\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.dll
+D:\ONDRA\Doppler\2. cast\Programování\Pexeso\obj\Debug\netcoreapp3.1\Pexeso.pdb

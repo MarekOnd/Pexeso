@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tLY8mZdBUauwTHeN80aMY++QbYAGUyg1P5Urs8W9e6uBz3tfhDVqLJBsAAE/5EDBYSEFybBvOFr8+DI11OyAGQ==",
+  "success": true,
+  "projectFilePath": "D:\\ONDRA\\Doppler\\2. cast\\Programování\\Pexeso\\Pexeso.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kluci\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
